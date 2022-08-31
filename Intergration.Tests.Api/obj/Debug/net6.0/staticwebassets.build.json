@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PAk5ytIjBv1MFWuOalXvSIZ3Zvvvy7I+IIcJyz0tUag=",
+  "Source": "Intergration.Tests.Api",
+  "BasePath": "_content/Intergration.Tests.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
